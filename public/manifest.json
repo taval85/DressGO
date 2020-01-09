@@ -1,0 +1,39 @@
+{
+    "short_name": "DressGO",
+    "name": "Dress GO APP",
+    "start_url": "index.html",
+    "background_color": "#3498db",
+    "theme_color": "#3498db",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/icons/icons8-wedding-dress-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "img/icons/icons8-wedding-dress-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "img/icons/dress (2).png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "img/icons/dress (1).png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },      
+        
+        {
+            "src": "img/icons/dress.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+      ]
+
+
+}
